@@ -24,7 +24,7 @@
     "express-async-handler": "^1.2.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^7.5.2",
-    "multer": "^1.4.5-lts.1",
+    "multer": "^2.0.2",
     "react": "^19.1.0",
     "router-dom": "^3.0.3"
   },
